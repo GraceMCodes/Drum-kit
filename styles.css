@@ -1,0 +1,29 @@
+body{
+    background-image: url("./download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    /* background-color:#DD8169; */
+   color:#171211;
+   font-size: 24px;
+
+}
+.keys{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   
+}
+p{
+    border:5px solid #B46855;
+    background-color:#DFAB9E;
+    text-align: center;
+    padding: 12px;
+    cursor: pointer;
+    box-shadow: #dd8069ab ;
+}
+.sound{
+    display: flex;
+    font: 1em sans-serif;
+    color: antiquewhite;
+}
